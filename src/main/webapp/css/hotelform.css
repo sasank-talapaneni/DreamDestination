@@ -1,0 +1,100 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(hotelform.jpeg); /* Add the path to your background image */
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 300px;
+    background-color: rgba(244, 244, 244, 0.9); /* Background with 90% opacity (semi-transparent) */
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(0, 0, 0, 0); /* Transparent background */
+}
+
+/* The rest of your existing CSS code... */
+
+
+
+  
+  .form-group {
+    margin: 10px 0;
+  }
+  
+  label {
+    font-weight: bold;
+    color: #007BFF;
+  }
+  
+  input[type="text"],
+  input[type="file"],
+  textarea {
+    width: 90%;
+    padding: 10px;
+    margin-top: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  input[type="submit"] {
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  input[type="submit"]:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Add the following CSS to make the form more colorful */
+  
+  .container:hover {
+    background-color: #f1f1f1;
+  }
+  
+  .form-group {
+    border-bottom: 1px solid #ccc;
+  }
+  
+  label {
+    font-size: 16px;
+  }
+  
+  input[type="text"],
+  input[type="file"],
+  textarea {
+    border-color: #ccc;
+    transition: border-color 0.2s ease-in-out;
+  }
+  
+  input[type="text"]:focus,
+  input[type="file"]:focus,
+  textarea:focus {
+    border-color: #007BFF;
+  }
+  
+  input[type="submit"] {
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+  }
+  
+  input[type="submit"]:hover {
+    background-color: #0056b3;
+  }
+  
