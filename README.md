@@ -5,10 +5,10 @@ providers and the visitors who want to use them while they are travelling.
 
 Tools and Technologies : 
 
-Eclipse IDE
-Java
-SpringBoot MVC
-MySQL
+Eclipse IDE,
+Java,
+SpringBoot MVC,
+MySQL,
 JSP
 
 Modules :
