@@ -1,7 +1,14 @@
                                                          ***Dream Destination***
                                                  (Tourism and Hospitality Management System)
 It is a web application developed for the reservation of hotel bookings and tour packages.It provide a solution which connects the homestay
-providers and the visitors who want to use them while they are travelling
+providers and the visitors who want to use them while they are travelling.
+
+Tools and Technologies : 
+Eclipse IDE
+Java
+SpringBoot MVC
+MySQL
+JSP
 
 Modules :
 1. Admin 
@@ -10,6 +17,7 @@ Modules :
 4. Tour Operators
 
 Admin :
+
 -> The admin is responsible for managing the overall operation of the travel and tourism platform. This includes managing 
 user accounts and permissions, managing tour packages and hotels, and monitoring and managing reviews.
 -> The admin can create and delete user accounts, assign permissions to users, and manage user roles.
@@ -17,18 +25,21 @@ user accounts and permissions, managing tour packages and hotels, and monitoring
 -> The admin can monitor and manage reviews, which can be used to improve the quality of the platform.
 
 Travelers / Customers:
+
 -> Travelers or customers are the users who are looking to book travel arrangements. They can browse and search for destinations and 
 hotels, view detailed information about destinations, including descriptions and photos, and make reservations for accommodations 
 and tours.
 -> Travelers can also provide feedback on their experiences, which can help other travelers make informed decisions.
 
 Hotel Managers:
+
 -> Hotel managers are responsible for managing the day-to-day operations of a hotel. This includes managing room availability and 
 prices, processing reservations and cancellations, and updating room information, descriptions, and photos.
 -> Hotel managers can view and manage reservations for their hotel, as well as update the availability and prices of rooms.
 They can also process cancellations and update room information,descriptions, and photos.
 
 Tour Operators:
+
 -> Tour operators are responsible for creating and managing tour packages. This includes creating tour itineraries, booking 
 transportation and accommodation, and hiring tour guides.
 -> Tour operators can create and update tour packages, including their descriptions and prices.
